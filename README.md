@@ -1,4 +1,4 @@
-# aiffel_Exploration
+# Aiffel_Exploration
 |No|프로젝트 주제|학습키워드|
 |-|-|-|
 |Exploration 1|인공지능과 가위바위보 하기|이미지 분류|
