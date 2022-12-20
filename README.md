@@ -1,6 +1,6 @@
 # Aiffel_Exploration
 |No|프로젝트 주제|학습키워드|
-|-|-|-|
+|---|---|---|
 |Exploration 1|인공지능과 가위바위보 하기|이미지 분류|
 |Exploration 2|손글씨, 와인, 유방암 분류하기|이진 분류, Confusion matrix, 분류 모델|
 |Exploration 3|고양이 수염 스티커앱 만들기|CV, 얼굴인식|
