@@ -7,7 +7,7 @@
 |Exploration 4|작사가 인공지능 만들기|NLP, 텍스트 생성모델|
 |Exploration 5|kaggle 경진대회 따라해보기|kaggle|
 |Exploration 6|영화리뷰 텍스트 감성분석하기|NLP, 텍스트 분류|
-|Exploration 7|인물사진(셀로우포커스) 편집 모델|CV,인 물인식
+|Exploration 7|인물사진(셀로우포커스) 편집 모델|CV, 인물인식
 |Exploration 8|뉴스기사 요약 모델 만들기|NLP, abstractiv model, Extractive 요약|
 |Exploration 9|폐렴 진단 모델 만들기|CNN, 의료데이터, data augmentation|
 |Exploration 10|GAN-새로운 패션 생성모델 만들기|CV, GAN, 이미지 생성|
